@@ -190,7 +190,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    1.56m added, 451k removed
+                                    1.22m added, 128k removed
                                 </div>
                             </section>
                             <section>
@@ -365,16 +365,16 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 777kb of code in 777 edited files across 333 commits over last 81 days</small>
+                <small>estimation from 987kb of code in 921 edited files across 362 commits over last 81 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="456.0648936302133" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="456.0648936302133" y="0" width="3.0965840143279015" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="459.16147764454126" y="0" width="0.7806651278226656" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="459.9421427723639" y="0" width="0.05785722763612658" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="454.0910961221361" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="454.0910961221361" y="0" width="3.8696345243574233" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="457.9607306464935" y="0" width="1.9894968804576751" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="459.95022752695115" y="0" width="0.049772473048800184" height="8" fill="#e34c26"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -386,9 +386,9 @@
                                 JavaScript
                             </div>
                             <small>
-                                <div>19k lines</div>
-                                <div>559 kB</div>
-                                <div>99.14%</div>
+                                <div>22.3k lines</div>
+                                <div>647 kB</div>
+                                <div>98.72%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -399,9 +399,9 @@
                                 CSS
                             </div>
                             <small>
-                                <div>193 lines</div>
-                                <div>3.80 kB</div>
-                                <div>0.67%</div>
+                                <div>294 lines</div>
+                                <div>5.52 kB</div>
+                                <div>0.84%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -412,9 +412,9 @@
                                 TypeScript
                             </div>
                             <small>
-                                <div>26 lines</div>
-                                <div>958 bytes</div>
-                                <div>0.17%</div>
+                                <div>70 lines</div>
+                                <div>2.84 kB</div>
+                                <div>0.43%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -715,7 +715,7 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 93 commits)</small>
+                    <small class="h-details">(computed from last 90 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
@@ -844,8 +844,8 @@
                                     <text fill="rgba(127, 127, 127, .8)" x="0" dy="-4">0</text>
                                 </g>
                             </g>
-                            <path transform="translate(10,10)" d="M10,79.091L29.565,87.727L49.13,87.727L68.696,53.182L88.261,105L107.826,105L127.391,105L146.957,105L166.522,105L186.087,44.545L205.652,27.273L225.217,10L244.783,70.455L264.348,44.545L283.913,70.455L303.478,61.818L323.043,61.818L342.609,70.455L362.174,87.727L381.739,70.455L401.304,70.455L420.87,79.091L440.435,35.909L460,79.091" fill="transparent" stroke="#87ceeb" stroke-width="2"/>
-                            <path transform="translate(10,10)" d="M10,105L29.565,105L49.13,105L68.696,105L88.261,105L107.826,105L127.391,105L146.957,105L166.522,105L186.087,105L205.652,105L225.217,105L244.783,105L264.348,105L283.913,105L303.478,105L323.043,105L342.609,105L362.174,105L381.739,105L401.304,105L420.87,105L440.435,105L460,105L460,79.091L440.435,35.909L420.87,79.091L401.304,70.455L381.739,70.455L362.174,87.727L342.609,70.455L323.043,61.818L303.478,61.818L283.913,70.455L264.348,44.545L244.783,70.455L225.217,10L205.652,27.273L186.087,44.545L166.522,105L146.957,105L127.391,105L107.826,105L88.261,105L68.696,53.182L49.13,87.727L29.565,87.727L10,79.091Z" fill="rgba(88, 166, 255, .1)"/>
+                            <path transform="translate(10,10)" d="M10,79.091L29.565,87.727L49.13,87.727L68.696,53.182L88.261,105L107.826,105L127.391,105L146.957,105L166.522,105L186.087,61.818L205.652,35.909L225.217,10L244.783,70.455L264.348,44.545L283.913,70.455L303.478,61.818L323.043,61.818L342.609,70.455L362.174,87.727L381.739,70.455L401.304,70.455L420.87,79.091L440.435,35.909L460,79.091" fill="transparent" stroke="#87ceeb" stroke-width="2"/>
+                            <path transform="translate(10,10)" d="M10,105L29.565,105L49.13,105L68.696,105L88.261,105L107.826,105L127.391,105L146.957,105L166.522,105L186.087,105L205.652,105L225.217,105L244.783,105L264.348,105L283.913,105L303.478,105L323.043,105L342.609,105L362.174,105L381.739,105L401.304,105L420.87,105L440.435,105L460,105L460,79.091L440.435,35.909L420.87,79.091L401.304,70.455L381.739,70.455L362.174,87.727L342.609,70.455L323.043,61.818L303.478,61.818L283.913,70.455L264.348,44.545L244.783,70.455L225.217,10L205.652,35.909L186.087,61.818L166.522,105L146.957,105L127.391,105L107.826,105L88.261,105L68.696,53.182L49.13,87.727L29.565,87.727L10,79.091Z" fill="rgba(88, 166, 255, .1)"/>
                             <g>
                                 <circle transform="translate(10,10)" cx="10" cy="79.0909090909091" r="2" fill="#106cbc"/>
                                 <circle transform="translate(10,10)" cx="29.565217391304348" cy="87.72727272727272" r="2" fill="#106cbc"/>
@@ -856,8 +856,8 @@
                                 <circle transform="translate(10,10)" cx="127.3913043478261" cy="105" r="2" fill="#106cbc"/>
                                 <circle transform="translate(10,10)" cx="146.95652173913044" cy="105" r="2" fill="#106cbc"/>
                                 <circle transform="translate(10,10)" cx="166.52173913043478" cy="105" r="2" fill="#106cbc"/>
-                                <circle transform="translate(10,10)" cx="186.08695652173913" cy="44.54545454545455" r="2" fill="#106cbc"/>
-                                <circle transform="translate(10,10)" cx="205.65217391304347" cy="27.272727272727266" r="2" fill="#106cbc"/>
+                                <circle transform="translate(10,10)" cx="186.08695652173913" cy="61.81818181818181" r="2" fill="#106cbc"/>
+                                <circle transform="translate(10,10)" cx="205.65217391304347" cy="35.90909090909091" r="2" fill="#106cbc"/>
                                 <circle transform="translate(10,10)" cx="225.2173913043478" cy="10" r="2" fill="#106cbc"/>
                                 <circle transform="translate(10,10)" cx="244.7826086956522" cy="70.45454545454545" r="2" fill="#106cbc"/>
                                 <circle transform="translate(10,10)" cx="264.3478260869565" cy="44.54545454545455" r="2" fill="#106cbc"/>
@@ -882,8 +882,8 @@
                                 <text transform="translate(10,6)" x="127.3913043478261" y="105" fill="rgba(127, 127, 127, .8)"/>
                                 <text transform="translate(10,6)" x="146.95652173913044" y="105" fill="rgba(127, 127, 127, .8)"/>
                                 <text transform="translate(10,6)" x="166.52173913043478" y="105" fill="rgba(127, 127, 127, .8)"/>
-                                <text transform="translate(10,6)" x="186.08695652173913" y="44.54545454545455" fill="rgba(127, 127, 127, .8)">7</text>
-                                <text transform="translate(10,6)" x="205.65217391304347" y="27.272727272727266" fill="rgba(127, 127, 127, .8)">9</text>
+                                <text transform="translate(10,6)" x="186.08695652173913" y="61.81818181818181" fill="rgba(127, 127, 127, .8)">5</text>
+                                <text transform="translate(10,6)" x="205.65217391304347" y="35.90909090909091" fill="rgba(127, 127, 127, .8)">8</text>
                                 <text transform="translate(10,6)" x="225.2173913043478" y="10" fill="rgba(127, 127, 127, .8)">11</text>
                                 <text transform="translate(10,6)" x="244.7826086956522" y="70.45454545454545" fill="rgba(127, 127, 127, .8)">4</text>
                                 <text transform="translate(10,6)" x="264.3478260869565" y="44.54545454545455" fill="rgba(127, 127, 127, .8)">7</text>
@@ -951,15 +951,15 @@
                                         <text fill="rgba(127, 127, 127, .8)" x="0" dy="-4">0</text>
                                     </g>
                                 </g>
-                                <path transform="translate(10,10)" d="M10,85.345L41,88.621L72,49.31L103,10L134,95.172L165,29.655L196,72.241" fill="transparent" stroke="#87ceeb" stroke-width="2"/>
-                                <path transform="translate(10,10)" d="M10,105L41,105L72,105L103,105L134,105L165,105L196,105L196,72.241L165,29.655L134,95.172L103,10L72,49.31L41,88.621L10,85.345Z" fill="rgba(88, 166, 255, .1)"/>
+                                <path transform="translate(10,10)" d="M10,85.345L41,88.621L72,49.31L103,10L134,95.172L165,39.483L196,72.241" fill="transparent" stroke="#87ceeb" stroke-width="2"/>
+                                <path transform="translate(10,10)" d="M10,105L41,105L72,105L103,105L134,105L165,105L196,105L196,72.241L165,39.483L134,95.172L103,10L72,49.31L41,88.621L10,85.345Z" fill="rgba(88, 166, 255, .1)"/>
                                 <g>
                                     <circle transform="translate(10,10)" cx="10" cy="85.3448275862069" r="2" fill="#106cbc"/>
                                     <circle transform="translate(10,10)" cx="41" cy="88.62068965517241" r="2" fill="#106cbc"/>
                                     <circle transform="translate(10,10)" cx="72" cy="49.310344827586206" r="2" fill="#106cbc"/>
                                     <circle transform="translate(10,10)" cx="103" cy="10" r="2" fill="#106cbc"/>
                                     <circle transform="translate(10,10)" cx="134" cy="95.17241379310344" r="2" fill="#106cbc"/>
-                                    <circle transform="translate(10,10)" cx="165" cy="29.655172413793103" r="2" fill="#106cbc"/>
+                                    <circle transform="translate(10,10)" cx="165" cy="39.48275862068965" r="2" fill="#106cbc"/>
                                     <circle transform="translate(10,10)" cx="196" cy="72.24137931034483" r="2" fill="#106cbc"/>
                                 </g>
                                 <g fill="currentColor" text-anchor="middle" font-family="sans-serif" font-size="10" stroke="rgba(88, 166, 255, .05)" stroke-linejoin="round" stroke-width="4" paint-order="stroke fill">
@@ -968,7 +968,7 @@
                                     <text transform="translate(10,6)" x="72" y="49.310344827586206" fill="rgba(127, 127, 127, .8)">17</text>
                                     <text transform="translate(10,6)" x="103" y="10" fill="rgba(127, 127, 127, .8)">29</text>
                                     <text transform="translate(10,6)" x="134" y="95.17241379310344" fill="rgba(127, 127, 127, .8)">3</text>
-                                    <text transform="translate(10,6)" x="165" y="29.655172413793103" fill="rgba(127, 127, 127, .8)">23</text>
+                                    <text transform="translate(10,6)" x="165" y="39.48275862068965" fill="rgba(127, 127, 127, .8)">20</text>
                                     <text transform="translate(10,6)" x="196" y="72.24137931034483" fill="rgba(127, 127, 127, .8)">10</text>
                                 </g>
                             </svg>
@@ -979,35 +979,35 @@
                         <div class="margin-bottom">
                             <svg xmlns="http://www.w3.org/2000/svg" width="216" height="160">
                                 <g transform="translate(108,80)" stroke="white" stroke-width="1" stroke-linejoin="round">
-                                    <path fill="#563d7c" d="M0.5,-79.998A80,80,0,0,1,2.644,-79.956L0,0Z">
+                                    <path fill="#563d7c" d="M0.5,-79.998A80,80,0,0,1,2.622,-79.957L0,0Z">
                                         <title>CSS
 0.40</title>
                                     </path>
-                                    <path fill="#f1e05a" d="M3.643,-79.917A80,80,0,1,1,-4.641,-79.865L0,0Z">
+                                    <path fill="#f1e05a" d="M3.621,-79.918A80,80,0,1,1,-4.673,-79.863L0,0Z">
                                         <title>JavaScript
-92.23</title>
+93.17</title>
                                     </path>
-                                    <path fill="#3178c6" d="M-3.643,-79.917A80,80,0,0,1,-1.661,-79.983L0,0Z">
+                                    <path fill="#3178c6" d="M-3.674,-79.916A80,80,0,0,1,-1.659,-79.983L0,0Z">
                                         <title>TypeScript
-0.37</title>
+0.38</title>
                                     </path>
-                                    <path fill="#e34c26" d="M-0.661,-79.997A80,80,0,0,1,-0.5,-79.998L0,0Z">
+                                    <path fill="#e34c26" d="M-0.659,-79.997A80,80,0,0,1,-0.5,-79.998L0,0Z">
                                         <title>HTML
 0.03</title>
                                     </path>
                                 </g>
                                 <g transform="translate(108,80)" font-family="sans-serif" font-size="12" text-anchor="middle" fill="white" stroke="rbga(0,0,0,.9)" paint-order="stroke fill">
-                                    <text transform="translate(0.7859644913430935,-39.99227750226721)">
+                                    <text transform="translate(0.7805472037551922,-39.99238360066464)">
                                         <tspan x="0" y="0em" font-weight="bold">CSS</tspan>
                                     </text>
-                                    <text transform="translate(0.24999837239900047,39.99921875254313)">
+                                    <text transform="translate(0.26326301805103874,39.99913364790951)">
                                         <tspan x="0" y="0em" font-weight="bold">JavaScript</tspan>
-                                        <tspan x="0" y="1.1em">92.23</tspan>
+                                        <tspan x="0" y="1.1em">93.17</tspan>
                                     </text>
-                                    <text transform="translate(-1.3259732386399838,-39.97801639614465)">
+                                    <text transform="translate(-1.3334093443562955,-39.97776906632464)">
                                         <tspan x="0" y="0em" font-weight="bold">TypeScript</tspan>
                                     </text>
-                                    <text transform="translate(-0.2901985848455501,-39.9989472959146)">
+                                    <text transform="translate(-0.28979222104020963,-39.99895024208291)">
                                         <tspan x="0" y="0em" font-weight="bold">HTML</tspan>
                                     </text>
                                 </g>
@@ -2246,23 +2246,17 @@
                                                 <path fill-rule="evenodd" d="M4 5.75C4 4.784 4.784 4 5.75 4h4.5c.966 0 1.75.784 1.75 1.75v4.5A1.75 1.75 0 0110.25 12h-4.5A1.75 1.75 0 014 10.25v-4.5zm1.75-.25a.25.25 0 00-.25.25v4.5c0 .138.112.25.25.25h4.5a.25.25 0 00.25-.25v-4.5a.25.25 0 00-.25-.25h-4.5z"/>
                                             </svg>
                                             <div class="name">
-                                                <span>hiteshchoudhary/chai-backend</span>
+                                                <span>Learn-with-Sumit/think-in-a-redux-way</span>
                                                 <span></span>
                                             </div>
                                         </div>
-                                        <div class="field description">A video series on chai aur code youtube channel</div>
+                                        <div class="field description">Think in a Redux way - React-Redux basic to advanced Bangla course by Learn with Sumit</div>
                                         <div class="field infos">
-                                            <div class="language">
-                                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                                    <path fill="#f1e05a" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                                                </svg>
-                                                JavaScript
-                                            </div>
                                             <div>
                                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="11" height="11">
                                                     <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                                 </svg>
-                                                4.35k
+                                                231
                                             </div>
                                             <div>
                                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="11" height="11">
@@ -2326,17 +2320,23 @@
                                                 <path fill-rule="evenodd" d="M4 5.75C4 4.784 4.784 4 5.75 4h4.5c.966 0 1.75.784 1.75 1.75v4.5A1.75 1.75 0 0110.25 12h-4.5A1.75 1.75 0 014 10.25v-4.5zm1.75-.25a.25.25 0 00-.25.25v4.5c0 .138.112.25.25.25h4.5a.25.25 0 00.25-.25v-4.5a.25.25 0 00-.25-.25h-4.5z"/>
                                             </svg>
                                             <div class="name">
-                                                <span>mdtanvirahamedshanto/Operator-Mono-Font</span>
+                                                <span>IsAmitprajapati/Full-Stack-E-Commerce-MERN-APP</span>
                                                 <span></span>
                                             </div>
                                         </div>
-                                        <div class="field description">Operator-Mono-Font-Download</div>
+                                        <div class="field description">Full Stack E-Commerce MERN APP</div>
                                         <div class="field infos">
+                                            <div class="language">
+                                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                                    <path fill="#f1e05a" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                                </svg>
+                                                JavaScript
+                                            </div>
                                             <div>
                                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="11" height="11">
                                                     <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                                 </svg>
-                                                3
+                                                134
                                             </div>
                                             <div>
                                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="11" height="11">
@@ -2354,23 +2354,24 @@
                                                 <path fill-rule="evenodd" d="M4 5.75C4 4.784 4.784 4 5.75 4h4.5c.966 0 1.75.784 1.75 1.75v4.5A1.75 1.75 0 0110.25 12h-4.5A1.75 1.75 0 014 10.25v-4.5zm1.75-.25a.25.25 0 00-.25.25v4.5c0 .138.112.25.25.25h4.5a.25.25 0 00.25-.25v-4.5a.25.25 0 00-.25-.25h-4.5z"/>
                                             </svg>
                                             <div class="name">
-                                                <span>adrianhajdin/banking</span>
+                                                <span>TusharVashishth/master_backend_with_expressjs</span>
                                                 <span></span>
                                             </div>
                                         </div>
-                                        <div class="field description">Horizon is a modern banking platform for everyone.</div>
+                                        <div class="field description">
+                                        </div>
                                         <div class="field infos">
                                             <div class="language">
                                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                                    <path fill="#3178c6" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                                    <path fill="#f1e05a" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                                 </svg>
-                                                TypeScript
+                                                JavaScript
                                             </div>
                                             <div>
                                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="11" height="11">
                                                     <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                                 </svg>
-                                                1.42k
+                                                20
                                             </div>
                                             <div>
                                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="11" height="11">
@@ -2859,7 +2860,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 11 Aug 2024, 09:34:04 (timezone Asia/Dhaka) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 11 Aug 2024, 10:36:03 (timezone Asia/Dhaka) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
